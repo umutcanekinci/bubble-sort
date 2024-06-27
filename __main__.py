@@ -46,6 +46,8 @@ def Main():
     newValues = Sort(values)
     print("Sorted values:", newValues)
 
+    input("\nPress enter to exit!")
+
 if __name__ == "__main__":
     
     Main()
